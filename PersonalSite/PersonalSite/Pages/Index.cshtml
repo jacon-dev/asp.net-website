@@ -1,0 +1,61 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Welcome";
+}
+
+
+<div class="card text-white" style="margin-bottom:-4px">
+    <img class="img-fluid card-img rounded-top" src="./img/welcome-banner.png" alt="Welcome to JamesConlin.co.uk!">
+    <div class="card-img-overlay d-flex">
+        <div class="text-center my-auto mx-auto ">
+            <h4 class="card-title">Welcome!</h4>
+        </div>
+    </div>
+</div>
+
+<div class="card" style="margin-bottom:10px">
+    <div class="card-body">
+        I'm a dad, developer, gamer, aspiring leader and all around nerd. Passionate about technology I surround myself in tech related subjects both in work and outside of it. 
+        I've been coding for @Model.CodingYears years and have no intention of stopping. So here you can read all about my projects, my learnings and what I'm currently up to!
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="col">
+        <div class="card">
+            <div class="card-header">
+                <h5>Latest Blogs</h5>
+            </div>
+            <div class="card-body">
+                @if (Model.LatestBlogs.Any())
+                {
+                    foreach (var blog in Model.LatestBlogs)
+                    {
+                        <div style="list-style-type:none;"><a asp-page="@blog.BlogPageLink">@blog.BlogTitle</a></div>
+                    }
+                }
+                else
+                {
+                    <div style="list-style-type:none;">Theres no blogs yet! Check back soon!</div>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card">
+            <div class="card-header">
+                <h5>Latest Apps</h5>
+            </div>
+            <div class="card-body">
+                <div style="list-style-type:none;"><a asp-page="/Index">App 1</a></div>
+                <div style="list-style-type:none;"><a asp-page="/Index">App 2</a></div>
+                <div style="list-style-type:none;"><a asp-page="/Index">App 3</a></div>
+                <div style="list-style-type:none;"><a asp-page="/Index">App 4</a></div>
+                <div style="list-style-type:none;"><a asp-page="/Index">App 5</a></div>
+            </div>
+        </div>
+    </div>
+</div>

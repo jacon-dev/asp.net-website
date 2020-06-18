@@ -1,0 +1,9 @@
+D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.Entities\bin\Debug\netcoreapp3.1\PersonalSite.Entities.deps.json
+D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.Entities\bin\Debug\netcoreapp3.1\PersonalSite.Entities.dll
+D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.Entities\bin\Debug\netcoreapp3.1\PersonalSite.Entities.pdb
+D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.csprojAssemblyReference.cache
+D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.AssemblyInfoInputs.cache
+D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.AssemblyInfo.cs
+D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.csproj.CoreCompileInputs.cache
+D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.dll
+D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.pdb
