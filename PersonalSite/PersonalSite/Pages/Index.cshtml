@@ -34,7 +34,14 @@
                 {
                     foreach (var blog in Model.LatestBlogs)
                     {
-                        <div style="list-style-type:none;"><a asp-page="@blog.BlogPageLink">@blog.BlogTitle</a></div>
+                        <div class="row">
+                            <div class="col text-left">
+                                <a href="@blog.BlogPageLink">@blog.BlogTitle</a>
+                            </div>
+                            <div class="col text-right">
+                                @blog.PublishDate.ToString("dd MMMM yyyy")
+                            </div>
+                        </div>
                     }
                 }
                 else
