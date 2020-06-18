@@ -7,3 +7,12 @@ D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.Entities\obj\Debug\ne
 D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.csproj.CoreCompileInputs.cache
 D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.dll
 D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.pdb
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.Entities\bin\Debug\netcoreapp3.1\PersonalSite.Entities.deps.json
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.Entities\bin\Debug\netcoreapp3.1\PersonalSite.Entities.dll
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.Entities\bin\Debug\netcoreapp3.1\PersonalSite.Entities.pdb
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.AssemblyInfoInputs.cache
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.AssemblyInfo.cs
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.csproj.CoreCompileInputs.cache
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.dll
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.pdb
+C:\Code\GitHub\asp.net-website\PersonalSite\PersonalSite.Entities\obj\Debug\netcoreapp3.1\PersonalSite.Entities.csprojAssemblyReference.cache

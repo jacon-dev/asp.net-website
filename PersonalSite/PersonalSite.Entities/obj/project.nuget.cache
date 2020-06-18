@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZEp12j5+c1/QmlUjE0cQctIWdJGKM15kG2h6I65XkzVIUL5cGsqDeSRPon07mQs7aIWRdnl0B4Zez/dMBn1nIQ==",
+  "dgSpecHash": "E7penRuWRnfIcIfoqZTYFw6deZutWykoachF9/D7RwBwljKYL1qMYwrfB59WoVKldaYdmRF64JfItELjmaQHbA==",
   "success": true,
-  "projectFilePath": "D:\\Code Projects\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj",
+  "projectFilePath": "C:\\Code\\GitHub\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -57,11 +57,17 @@
                 <h5>Latest Apps</h5>
             </div>
             <div class="card-body">
-                <div style="list-style-type:none;"><a asp-page="/Index">App 1</a></div>
-                <div style="list-style-type:none;"><a asp-page="/Index">App 2</a></div>
-                <div style="list-style-type:none;"><a asp-page="/Index">App 3</a></div>
-                <div style="list-style-type:none;"><a asp-page="/Index">App 4</a></div>
-                <div style="list-style-type:none;"><a asp-page="/Index">App 5</a></div>
+                @if(Model.LatestApps.Any())
+                {
+                    foreach(var app in Model.LatestApps)
+                    {
+                        <div class="row">
+                            <div class="col text-left">
+                                <a href="@app.AppPageLink">@app.AppName</a>
+                            </div>
+                        </div>
+                    }
+                }
             </div>
         </div>
     </div>

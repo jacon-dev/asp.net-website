@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\james\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\jacon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code Projects\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj",
+      "projectUniqueName": "C:\\Code\\GitHub\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj",
       "projectName": "PersonalSite.Entities",
-      "projectPath": "D:\\Code Projects\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj",
-      "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-      "outputPath": "D:\\Code Projects\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\obj\\",
+      "projectPath": "C:\\Code\\GitHub\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj",
+      "packagesPath": "C:\\Users\\jacon\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\GitHub\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\james\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jacon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code Projects\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj": {}
+    "C:\\Code\\GitHub\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj": {}
   },
   "projects": {
-    "D:\\Code Projects\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj": {
+    "C:\\Code\\GitHub\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code Projects\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj",
+        "projectUniqueName": "C:\\Code\\GitHub\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj",
         "projectName": "PersonalSite.Entities",
-        "projectPath": "D:\\Code Projects\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj",
-        "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "D:\\Code Projects\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\obj\\",
+        "projectPath": "C:\\Code\\GitHub\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\PersonalSite.Entities.csproj",
+        "packagesPath": "C:\\Users\\jacon\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\GitHub\\asp.net-website\\PersonalSite\\PersonalSite.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\james\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jacon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

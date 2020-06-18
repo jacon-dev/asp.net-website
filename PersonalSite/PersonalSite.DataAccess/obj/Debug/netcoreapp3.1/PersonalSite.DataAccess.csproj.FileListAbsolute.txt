@@ -10,3 +10,15 @@ D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.DataAccess\obj\Debug\
 D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.DataAccess\obj\Debug\netcoreapp3.1\PersonalSite.DataAccess.csproj.CopyComplete
 D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.DataAccess\obj\Debug\netcoreapp3.1\PersonalSite.DataAccess.dll
 D:\Code Projects\asp.net-website\PersonalSite\PersonalSite.DataAccess\obj\Debug\netcoreapp3.1\PersonalSite.DataAccess.pdb
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.DataAccess\bin\Debug\netcoreapp3.1\PersonalSite.DataAccess.deps.json
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.DataAccess\bin\Debug\netcoreapp3.1\PersonalSite.DataAccess.dll
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.DataAccess\bin\Debug\netcoreapp3.1\PersonalSite.DataAccess.pdb
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.DataAccess\bin\Debug\netcoreapp3.1\PersonalSite.Entities.dll
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.DataAccess\bin\Debug\netcoreapp3.1\PersonalSite.Entities.pdb
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.DataAccess\obj\Debug\netcoreapp3.1\PersonalSite.DataAccess.csprojAssemblyReference.cache
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.DataAccess\obj\Debug\netcoreapp3.1\PersonalSite.DataAccess.AssemblyInfoInputs.cache
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.DataAccess\obj\Debug\netcoreapp3.1\PersonalSite.DataAccess.AssemblyInfo.cs
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.DataAccess\obj\Debug\netcoreapp3.1\PersonalSite.DataAccess.csproj.CoreCompileInputs.cache
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.DataAccess\obj\Debug\netcoreapp3.1\PersonalSite.DataAccess.csproj.CopyComplete
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.DataAccess\obj\Debug\netcoreapp3.1\PersonalSite.DataAccess.dll
+C:\Code\GitHub\asp.net-website\personalsite\PersonalSite.DataAccess\obj\Debug\netcoreapp3.1\PersonalSite.DataAccess.pdb

@@ -5,6 +5,6 @@ namespace PersonalSite.DataAccess
 {
     public interface IBlogDataAccess
     {
-        public IEnumerable<BlogSummary> GetLatestBlogs();
+        public IEnumerable<BlogSummary> GetLatestBlogsSummary();
     }
 }

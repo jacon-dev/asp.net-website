@@ -26,6 +26,7 @@ namespace PersonalSite
         {
             services.AddRazorPages();
             services.AddSingleton<IBlogDataAccess, InMemoryBlogDataAccess>();
+            services.AddSingleton<IAppsDataAccess, InMemoryAppsDataAccess>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
