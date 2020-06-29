@@ -154,3 +154,4 @@ C:\Code\GitHub\asp.net-website\PersonalSite\PersonalSite\bin\Debug\netcoreapp3.1
 C:\Code\GitHub\asp.net-website\PersonalSite\PersonalSite\obj\Debug\netcoreapp3.1\PersonalSite.csproj.CoreCompileInputs.cache
 C:\Code\GitHub\asp.net-website\PersonalSite\PersonalSite\obj\Debug\netcoreapp3.1\PersonalSite.MvcApplicationPartsAssemblyInfo.cache
 C:\Code\GitHub\asp.net-website\PersonalSite\PersonalSite\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
+C:\Code\GitHub\asp.net-website\PersonalSite\PersonalSite\obj\Debug\netcoreapp3.1\Razor\Pages\CareerHistory.cshtml.g.cs
